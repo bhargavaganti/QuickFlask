@@ -3,9 +3,12 @@ import urllib,json
 import random
 from flask import Flask
 from flask import render_template
+import flask_raptor
 from forms import SearchForm
 
 app = Flask(__name__)
+app.config['RAPTOR_CHANCE'] = .2
+flask_raptor.init_app(app)
 app.secret_key = 'some_secret_key'
 
 @app.route("/")
