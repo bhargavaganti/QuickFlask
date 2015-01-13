@@ -9,6 +9,7 @@ Features
 
 - [ ] Be awesome
 - [x] Install Raptors
+- [ ] Run project on Heroku
 
 Requirements
 ------------
