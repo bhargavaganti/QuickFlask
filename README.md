@@ -9,6 +9,7 @@ Features
 
 - [ ] Be awesome
 - [x] Install Raptors
+- [ ] Add error checking for giphy api request
 - [ ] Run project on Heroku
 
 Requirements
