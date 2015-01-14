@@ -1,7 +1,7 @@
 QuickFlask
 ========
 
-This is the repository to go along with my presentation at the [Chadev Python user group meeting on 1/12/2015](http://www.meetup.com/Chattanooga-Python-User-Group/events/219356916/). 
+This is the repository to go along with my [presentation](http://www.slideshare.net/juzten/quick-flask-an-intro-to-flask) at the [Chadev Python user group meeting on 1/12/2015](http://www.meetup.com/Chattanooga-Python-User-Group/events/219356916/). Theres also a [video](https://plus.google.com/u/0/events/cb11glcvgjulmukl52ar9cjqoi8).
 
 
 Features
